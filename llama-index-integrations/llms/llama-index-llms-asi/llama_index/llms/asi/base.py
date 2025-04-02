@@ -16,7 +16,8 @@ DEFAULT_MODEL = "asi1-mini"
 
 
 class ASI(OpenAILike):
-    """ASI LLM - Integration for ASI models.
+    """
+    ASI LLM - Integration for ASI models.
 
     Currently supported models:
     - asi1-mini
